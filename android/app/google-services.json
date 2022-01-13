@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702757752725",
+    "firebase_url": "https://glam-28b45-default-rtdb.firebaseio.com",
+    "project_id": "glam-28b45",
+    "storage_bucket": "glam-28b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702757752725:android:3efa537717b0333c81f09c",
+        "android_client_info": {
+          "package_name": "com.example.glampartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702757752725-gh6at3bkmdetcd90odgodmnovohb6khk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glampartner",
+            "certificate_hash": "4a0baa4b22c7d507691659cecac2acf78edb16dc"
+          }
+        },
+        {
+          "client_id": "702757752725-mlv7tf45gmdnpmmv97hl4h3corrc4ie5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAYBUeA96yO0sgdjomN804A8VLmNusYnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702757752725-mlv7tf45gmdnpmmv97hl4h3corrc4ie5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
